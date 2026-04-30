@@ -1,0 +1,1 @@
+"""WikiGame course homework package."""
